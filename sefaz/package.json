@@ -10,9 +10,12 @@
   "devDependencies": {},
   "description": "",
   "dependencies": {
+    "@rgrove/parse-xml": "^1.1.1",
     "cheerio": "^1.0.0-rc.2",
+    "install": "^0.12.1",
     "php-parser": "^3.0.0-alpha2",
     "ts-simple-ast": "^12.4.0",
-    "xml-parser": "^1.2.1"
+    "xml-parser": "^1.2.1",
+    "xml2js": "^0.4.19"
   }
 }
